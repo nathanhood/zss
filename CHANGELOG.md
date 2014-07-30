@@ -5,7 +5,7 @@
   * Integration specs for the training paths menu, which compelled us to write
   * Integration specs for creating a trining path
 
-Note:
+Note: 
 
 ## July 30, commit 3
 
