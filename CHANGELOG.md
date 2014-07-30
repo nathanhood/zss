@@ -1,5 +1,13 @@
 # Changelog
 
+## July 30, commit 2
+
+  * `touch zss`
+  * `chmod +x zss`
+  * Add Shebang to zss file (#!/usr/bin/env ruby)
+    * This is for bash to know how to run file/ tells shell that zss is ruby file
+  
+
 ## July 30, commit 1
 
   * Copied in Rakefile from the cal project
